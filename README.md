@@ -1785,6 +1785,10 @@ https://www.aclweb.org/anthology/D17-1117)
    * Data link: [SexHateLex](https://doi.org/10.5281/zenodo.4773875)
    * Size of lexicon: 3,016
    * Reference: [SWSR: A Chinese Dataset and Lexicon for Online Sexism Detection](https://www.sciencedirect.com/science/article/abs/pii/S2468696421000604#fn1), Journal of OSNEM, Vol.27, 2022, 100182, ISSN 2468-6964.
+  
+1. __PeaceTech Lab__
+   * PeaceTech Lab is a 501c3 nonprofit which publishes downloadable hate speech lexicons for specific countries. Terms are accompanied by analysis of regional context.
+   * Data link: [PeachTech Lab]([https://doi.org/10.5281/zenodo.4773875](https://www.peacetechlab.org/hate-speech))
 
 <a id="Contributing-header"></a>
 # How to Contribute
