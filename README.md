@@ -1757,7 +1757,7 @@ https://www.aclweb.org/anthology/D17-1117)
 # Lists of abusive keywords
 
 1. __The Weaponized Word__
-   * "The Weaponized Word offers several thousand discriminatory, derogatory and threatening terms across 125+ languages, available through a RESTful API. Access is free for most academic researchers and registered humanitarian nonprofits."
+   * "The Weaponized Word offers several thousand discriminatory, derogatory and threatening terms across 130 languages, available through a RESTful API. Fees are waived or discounted for eligible academic researchers and humanitarian nonprofits."
    * Data link: [weaponizedword.org](https://weaponizedword.org)
 
 1. __Hurtlex__
